@@ -1,2 +1,4 @@
 import math
-print(sqrt(4))
+a=4
+b=sqrt(a)
+print(a)
